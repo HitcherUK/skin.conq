@@ -148,6 +148,7 @@
 					<width>1740</width>
 					<height>72</height>
 					<font>Font72</font>
+					<scroll>true</scroll>
 					<align>center</align>
 					<textcolor>TextColor1</textcolor>
 					<shadowcolor>ShadowColor</shadowcolor>
