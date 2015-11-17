@@ -74,6 +74,7 @@
 			<top>228</top>
 			<width>800</width>
 			<height>66</height>
+			<scroll>true</scroll>
 			<label>$INFO[Player.Filename]</label>
 		</control>
 
@@ -191,6 +192,8 @@
 						<visible>ListItem.Property(sync)</visible>
 					</control>
 					<control type="label">
+						<scroll>true</scroll>
+						<scrollspeed>100</scrollspeed>
 						<left>456</left>
 						<width>584</width>
 						<height>66</height>
