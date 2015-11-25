@@ -18,5 +18,8 @@
 		<summary lang="en">A simple, clean and light skin</summary>
 		<disclaimer lang="en">Mouse and Touch device not supported</disclaimer>
 		<description lang="en">Original design: Bolteh[CR]Code: Hitcher[CR]Thanks to 'Black for the icons</description>
+		<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</license>
+		<forum>http://forum.kodi.tv/forumdisplay.php?fid=210</forum>
+		<source>https://github.com/HitcherUK/skin.conq</source>
 	</extension>
 </addon>
